@@ -1,0 +1,8 @@
+{
+  "name": "node-prompts",
+  "version": "1.0.0",
+  "description": "A POC of a Node.js implementation of the Web APIs for alert, confirm and prompt",
+  "author": "Ian Sutherland <ian@iansutherland.ca>",
+  "main": "index.js",
+  "license": "MIT"
+}
